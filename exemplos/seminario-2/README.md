@@ -18,6 +18,11 @@ Exemplo 3: Booleanos e Strings
 go run 03_booleanos_e_strings.go 
 ```
 
+Exemplo 4: Tipos Compostos
+```bash
+go run 04_colecoes_e_estrutura_dados.go
+```
+
 ### Opção 2: Compilação para Binário
 
 Compile o arquivo:

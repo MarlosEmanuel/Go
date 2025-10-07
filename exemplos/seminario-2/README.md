@@ -28,9 +28,14 @@ Exemplo 5: Palavras chave e reservadas
 go run 05_palavras_reservadas.go
 ```
 
-Exemplo 6: Palavras chave e reservadas
+Exemplo 6: Variáveis
 ```bash
 go run 06_regras_lexicas_e_escopo.go
+```
+
+Exemplo 7: Exmpressões
+```bash
+go run 07_expressoes_e_precedencia.go
 ```
 
 ### Opção 2: Compilação para Binário

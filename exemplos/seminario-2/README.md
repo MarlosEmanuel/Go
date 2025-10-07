@@ -33,7 +33,7 @@ Exemplo 6: Variáveis
 go run 06_regras_lexicas_e_escopo.go
 ```
 
-Exemplo 7: Exmpressões
+Exemplo 7: Expressões
 ```bash
 go run 07_expressoes_e_precedencia.go
 ```

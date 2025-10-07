@@ -43,6 +43,12 @@ Exemplo 8: Controle de Fluxo
 go run 08_controle_de_fluxo.go
 ```
 
+Exemplo 9: Comandos de Repeticao
+```bash
+go run 09_comandos_de_repeticao.go
+```
+
+
 ### Opção 2: Compilação para Binário
 
 Compile o arquivo:

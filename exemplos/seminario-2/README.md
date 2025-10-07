@@ -38,6 +38,11 @@ Exemplo 7: Expressões
 go run 07_expressoes_e_precedencia.go
 ```
 
+Exemplo 8: Controle de Fluxo
+```bash
+go run 08_controle_de_fluxo.go
+```
+
 ### Opção 2: Compilação para Binário
 
 Compile o arquivo:
